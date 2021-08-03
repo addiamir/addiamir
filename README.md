@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @addiamir
-- 👀 I’m interested in STEDME (Science, Technology, Education, Design, Mathematics, Engineering) I just made it up
+- 👀 I’m interested in STEDME (Science, Technology, Education, Design, Mathematics, Engineering)
 - 🌱 I’m currently learning Data Science (Machine Learning) with R and Python
 - 💞️ I’m looking to collaborate on any machine learning basics to intermediate projects
 - 📫 How to reach me: email me at amirudin.adi@gmail.com
